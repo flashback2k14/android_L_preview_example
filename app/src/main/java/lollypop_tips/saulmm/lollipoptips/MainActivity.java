@@ -77,7 +77,7 @@ public class MainActivity extends Activity {
     };
 
     public void onFabClicked(View view) {
-        Toast.makeText(this, "Omg, you pressed that button...", Toast.LENGTH_LONG).show();;
+        Toast.makeText(this, "Omg, you pressed that button...", Toast.LENGTH_LONG).show();
     }
 }
 
